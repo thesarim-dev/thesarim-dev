@@ -15,6 +15,8 @@ I love stepping into active codebases to optimize performance, refine UI layouts
 
 *   **[Sentinel-AI](https://github.com/shresthgoel77-png/Sentinel-AI)** – Refactored the core layout, restructured text hierarchy, and integrated comprehensive visual documentation across threat dashboards and deep prompt analyzers. (See: [PR #4](https://github.com/shresthgoel77-png/Sentinel-AI/pull/4))
 
+*   **[Flowday](https://github.com/fredricknyangau/flowday)** – Authored the full REST API reference for a FastAPI day-planning app, documenting core endpoints for the Today view and assignment tracking, plus future endpoints for the weekly overview and client analytics. (See: [PR #28](https://github.com/fredricknyangau/flowday/pull/28))
+
 ---
 
 ### ⚙️ Core Stack & Expertise
