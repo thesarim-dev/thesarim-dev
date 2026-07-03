@@ -4,7 +4,7 @@
 
 I am an educator with a long-time passion for structured pedagogical documentation and a mission for optimization. To me, code architecture, clear writing, and lifestyle design share a singular purpose: achieving the healthiest, most comfortable, and highly efficient way of living. 
 
-I create apps and optimize documentation to save time for myself and others. Check out my health and fitness app, **2failure**, designed to blur the lines between intimidating workout culture and full schedules.
+I create apps and optimize documentation to save time for myself and others. Check out my health and fitness app, **2failure**, designed to bypass the noise of intimidating workout culture for those with full schedules.
 
 
 ---
