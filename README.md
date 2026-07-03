@@ -11,7 +11,7 @@ I create apps and optimize documentation to save time for myself and others. Che
 
 ### 🚀 Open-Source Contributions
 
-I love stepping into active codebases to optimize performance, refine UI layouts, or elevate the project's documentation standards.
+I love stepping into active codebases to refine UI layouts, or elevate the project's UX and documentation standards.
 
 *   **[Sentinel-AI](https://github.com/shresthgoel77-png/Sentinel-AI)** – Refactored the core layout, restructured text hierarchy, and integrated comprehensive visual documentation across threat dashboards and deep prompt analyzers. (See: [PR #4](https://github.com/shresthgoel77-png/Sentinel-AI/pull/4))
 
