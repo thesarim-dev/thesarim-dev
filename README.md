@@ -33,12 +33,12 @@ I love stepping into active codebases to refine UI layouts, or elevate the proje
 ### 📦 Main Projects In Development
 *Here are the core applications I am currently building, refining, and documenting:*
 
-#### 🏋️‍♂️ **2failure**
+#### 🏋️‍♂️ **[2failure](https://2failure-initial.vercel.app/)**
 > A dedicated, minimalist tracking application built specifically for calisthenics and progressive overload, focusing entirely on sets taken to clean technical failure.
 *   **Stack:** TypeScript, React, Supabase, TailwindCSS
 *   **Status:** ⏳ In Active Development
 
-#### 📝 **Markerio**
+#### 📝 **[Markerio](https://markerio.vercel.app/)**
 > A solution to one of education's daunting qualities: an AI-powered grading assistant tailored for educators to streamline exam evaluations, structure rubrics, and deliver clear, consistent and actionable feedback.
 *   **Stack:** TypeScript, React, TailwindCSS, Gemini API
 *   **Status:** ⏳ In Active Development
