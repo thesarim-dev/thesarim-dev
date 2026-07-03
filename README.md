@@ -25,7 +25,7 @@ I love stepping into active codebases to refine UI layouts, or elevate the proje
 | :--- | :--- | :--- |
 | **Frontend** | TypeScript, React, Next.js, TailwindCSS | High-contrast UI, Minimalist Layouts |
 | **Backend & DB** | Supabase, Firebase | Relational Architecture, Fast Auth Flow |
-| **Environment** | Vercel, Git/GitHub, Cursor | Markdown Automation, Version Control |
+| **Environment** | Vercel, Git/GitHub, VSCode, Cursor | Rapid Prototyping, Version Control, Software Development |
 | **Documentation** | Markdown, User Guides, Technical Specs | Clear Hierarchy, Structured Pedagogy |
 
 ---
