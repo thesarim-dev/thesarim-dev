@@ -13,11 +13,13 @@ I create apps and optimize documentation to save time for myself and others. Che
 
 I love stepping into active codebases to refine UI layouts, or elevate the project's UX and documentation standards.
 
-*   **[Sentinel-AI](https://github.com/shresthgoel77-png/Sentinel-AI)** – Refactored the core layout, restructured text hierarchy, and integrated comprehensive visual documentation across threat dashboards and deep prompt analyzers. (See: [PR #4](https://github.com/shresthgoel77-png/Sentinel-AI/pull/4))
-
-*   **[Flowday](https://github.com/fredricknyangau/flowday)** – Authored the full REST API reference for a FastAPI day-planning app, documenting core endpoints for the Today view and assignment tracking, plus future endpoints for the weekly overview and client analytics. (See: [PR #28](https://github.com/fredricknyangau/flowday/pull/28))
+- **[Sentinel-AI](https://github.com/shresthgoel77-png/Sentinel-AI)** – Refactored the core layout, restructured text hierarchy, and integrated comprehensive visual documentation across threat dashboards and deep prompt analyzers. (See: [PR #4](https://github.com/shresthgoel77-png/Sentinel-AI/pull/4))
+- **[Flowday](https://github.com/fredricknyangau/flowday)** – Authored the full REST API reference for a FastAPI day-planning app, documenting core endpoints for the Today view and assignment tracking, plus future endpoints for the weekly overview and client analytics. (See: [PR #28](https://github.com/fredricknyangau/flowday/pull/28))
 - **[HAProxy](https://github.com/JuanTorchia/gmm-haproxy-vscode)** – Added a troubleshooting section for local extension development, documenting common and first-time setup issues, dependency installation, output channel debugging, language server management, and Windows PowerShell configuration. (See: [PR #33](https://github.com/JuanTorchia/gmm-haproxy-vscode/pull/33))
+- [GeoResponde](https://github.com/GeoResponde/GeoResponde/tree/main) – Documented the deployment architecture in deployment.md, covering Vercel and Railway deployment paths, environment variables, local development setup, CI validation, and the release process. (See: PR #[47](https://github.com/GeoResponde/GeoResponde/pull/47)
 ---
+
+
 
 ### ⚙️ Core Stack & Expertise
 
