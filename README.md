@@ -1,6 +1,6 @@
 # Hi, I'm Sari ♥
 
-### 👨‍🏫 Educator | 💻 Freelance App Developer | ✍️ Aspiring Technical Writer
+### 👨‍🏫 Educator | 💻 Freelance App Developer | ✍️ Technical Writer
 
 I am an educator with a long-time passion for structured pedagogical documentation and a mission for optimization. To me, code architecture, clear writing, and lifestyle design share a singular purpose: achieving the healthiest, most comfortable, and highly efficient way of living. 
 
